@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FAQs/FAQs.iml" filepath="$PROJECT_DIR$/FAQs/FAQs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MySQLQueries.iml" filepath="$PROJECT_DIR$/.idea/MySQLQueries.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/Problems/Problems.iml" filepath="$PROJECT_DIR$/leetcode/Problems/Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
